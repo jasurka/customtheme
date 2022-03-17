@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jasurka/customtheme/issues"
   },
-  "homepage": "https://github.com/jasurka/customtheme#readme"
+  "homepage": "https://github.com/jasurka/customtheme#readme",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.9"
+  }
 }
